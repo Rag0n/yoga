@@ -13,10 +13,6 @@
     #import "YGEnums.h"
     #import "Yoga.h"
     #import "YGMacros.h"
-#elif defined(USE_YOGAKIT_PACKAGE)
-    #import <yogakit/YGEnums.h>
-    #import <yogakit/Yoga.h>
-    #import <yogakit/YGMacros.h>
 #else
     #import <yoga/YGEnums.h>
     #import <yoga/Yoga.h>

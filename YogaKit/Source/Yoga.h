@@ -18,6 +18,6 @@ FOUNDATION_EXPORT const unsigned char YogaKitVersionString[];
 // In this header, you should import all the public headers of your framework using statements like #import <YogaKit/PublicHeader.h>
 
 #import "UIView+Yoga.h"
-#import <YogaKit/YGLayout.h>
-#import <YogaKit/YGEnums.h>
-#import <YogaKit/YGNodeList.h>
+#import <Yoga/YGLayout.h>
+#import <Yoga/YGEnums.h>
+#import <Yoga/YGNodeList.h>
