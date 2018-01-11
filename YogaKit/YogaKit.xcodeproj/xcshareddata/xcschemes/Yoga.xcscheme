@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0820"
+   LastUpgradeVersion = "0920"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9D4FF1341E35AB150029DFF7"
-               BuildableName = "YogaKit.framework"
-               BlueprintName = "YogaKit"
+               BlueprintIdentifier = "113FB7AB2007C7A3002AECC7"
+               BuildableName = "Yoga.framework"
+               BlueprintName = "Yoga"
                ReferencedContainer = "container:YogaKit.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -30,15 +30,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9D4FF1341E35AB150029DFF7"
-            BuildableName = "YogaKit.framework"
-            BlueprintName = "YogaKit"
-            ReferencedContainer = "container:YogaKit.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -56,9 +47,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9D4FF1341E35AB150029DFF7"
-            BuildableName = "YogaKit.framework"
-            BlueprintName = "YogaKit"
+            BlueprintIdentifier = "113FB7AB2007C7A3002AECC7"
+            BuildableName = "Yoga.framework"
+            BlueprintName = "Yoga"
             ReferencedContainer = "container:YogaKit.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -74,9 +65,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9D4FF1341E35AB150029DFF7"
-            BuildableName = "YogaKit.framework"
-            BlueprintName = "YogaKit"
+            BlueprintIdentifier = "113FB7AB2007C7A3002AECC7"
+            BuildableName = "Yoga.framework"
+            BlueprintName = "Yoga"
             ReferencedContainer = "container:YogaKit.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
